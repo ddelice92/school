@@ -1,0 +1,105 @@
+---Start of simulation, time set to 0.--- 
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
+---Light changed. Now processing north/south-bound traffic--- 
+
+---Light changed. Now processing east/west-bound traffic---
+
